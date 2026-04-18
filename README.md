@@ -1,5 +1,7 @@
 # openUI
 
+🔗 **線上 Storybook**：https://69e33f5d8002e98f6ade32fd-ttfaxuxlcu.chromatic.com/
+
 CardTie 設計系統元件庫。以 Storybook 作為元件目錄，Tailwind CSS v4 + shadcn/ui 風格 token 作為樣式基礎。
 
 ---
